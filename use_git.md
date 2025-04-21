@@ -1,6 +1,5 @@
 ## github cơ bản
 
----
 
 ## Phần 1: Sơ cấp
 
@@ -10,7 +9,6 @@
 git --version
 ```
 
----
 
 ### 🔹Cấu hình Git
 
@@ -28,9 +26,7 @@ Kiểm tra cấu hình:
 git config --list
 ```
 
----
 
----
 
 Clone về máy
 
