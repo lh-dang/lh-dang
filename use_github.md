@@ -1,4 +1,4 @@
-## github cơ bản
+# github cơ bản
 
 
 ## Phần 1: Sơ cấp
