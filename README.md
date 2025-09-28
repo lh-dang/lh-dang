@@ -13,9 +13,9 @@
 
 🧠 **Giới thiệu**
 
-- 🔐 Sinh viên chuyên ngành An toàn thông tin.
-- 💻 Kỹ năng tốt về bảo mật hệ thống, CTF, khai thác lỗ hổng và hardening hệ điều hành.
-- 🌐 Từng làm dự án web sử dụng HTML, CSS, PHP, MySQL.
+- 🔐 Sinh viên chuyên ngành An toàn thông tin, khoa Mạng máy tính.
+- 💻 Kỹ năng tốt về bảo mật hệ thống, CTF, khai thác lỗ hổng, mạng máy tính, blockchain.
+- 🌐 Từng làm dự án web sử dụng HTML, CSS, PHP, MySQL, js, Nodejs.
 
 ---
 
